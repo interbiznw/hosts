@@ -1,16 +1,4 @@
-# Title: 
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date:
-# Extensions added to this file: 
-# Number of unique domains: 
-#
-# Fetch the latest version of this file:
-# Project home page:
-# Project releases:
-#
+# Title: Home Block List
 # ===============================================================
 
 127.0.0.1 localhost
@@ -32,19 +20,9 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start Home Block List
 
 #=====================================
-# Hosts contributed by Steven Black
-# http://stevenblack.com
-
-0.0.0.0 discord.com
-0.0.0.0 discordapp.com
-0.0.0.0 youtube.com
+# list hosts below
 0.0.0.0 powerline.io
-0.0.0.0 youtubepp.com
-0.0.0.0 soundtrap.com
-0.0.0.0 static.soundtrap.com
-0.0.0.0 ultimate-guitar.com
-0.0.0.0 supergdrift.com
-0.0.0.0 amainhobbies.com
+
