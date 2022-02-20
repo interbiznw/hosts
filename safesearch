@@ -1,16 +1,4 @@
-# Title: 
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date:
-# Extensions added to this file: 
-# Number of unique domains: 
-#
-# Fetch the latest version of this file:
-# Project home page:
-# Project releases:
-#
+# Title: Home Safe Search Only
 # ===============================================================
 
 127.0.0.1 localhost
@@ -30,13 +18,10 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-
 # End of custom host records.
-# Start StevenBlack
+# Start Home Safe Search Only
 
 #=====================================
-# Hosts contributed by Steven Black
-# http://stevenblack.com
 
 216.239.38.120 www.google.com
 216.239.38.120 google.com
