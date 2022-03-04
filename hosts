@@ -27,3 +27,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 powerline.io
 0.0.0.0 play.google.com
 0.0.0.0 pay.google.com
+0.0.0.0 apis.google.com
+0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 clients5.google.com
+0.0.0.0 lh3.googleusercontent.com
