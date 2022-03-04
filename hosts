@@ -25,4 +25,5 @@ ff02::3 ip6-allhosts
 #=====================================
 # list hosts below
 0.0.0.0 powerline.io
-
+0.0.0.0 play.google.com
+0.0.0.0 pay.google.com
