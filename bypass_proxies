@@ -1,0 +1,13 @@
+# Title: bypass_proxies Block List
+#=====================================
+# https://github.com/titaniumnetwork-dev/Ultraviolet
+# list hosts below
+0.0.0.0 neb.quest
+0.0.0.0 campusdirections.org
+0.0.0.0 holyubofficial.net
+0.0.0.0 hypertabs.cc
+0.0.0.0 terbiumux.net
+0.0.0.0 nebulaproxy.io
+0.0.0.0 usemetallic.com
+0.0.0.0 punchable.xyz
+0.0.0.0 schooliscool.xyz
